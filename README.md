@@ -1,4 +1,4 @@
-# Elektor driver for Bosch Sensortech BME280 Environmental sensor
+# Elektor driver for Bosch Sensortec BME280 Environmental sensor
 
 The BME280 sensor combines a temperature, pressure and humidity sensor in a tiny
 package. It is fast and supports I2C and SPI.
